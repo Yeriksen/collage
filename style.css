@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    border: 6px groove rgba(14, 14, 70, 0.822);
+} 
+img{
+    border: 5px groove rgb(7, 85, 85);
+    width: 400px;
+
+}
+button{
+    background-color: rgba(141, 251, 255, 0.938);
+}
